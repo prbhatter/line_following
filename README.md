@@ -2,7 +2,8 @@
 
 Arduino is used in this project.
 
-Here the robo-car follows a black line detected using infrared sensor.
-The inrared sensors need to be calliberated to detect the black line.
+Here the robo-car follows a black line detected using 5 infrared sensors.
+The infrared sensors need to be calliberated to detect the black line.
 
-Upload the arduino code and it's done!
+Before uploading the arduino code into your Arduino board check the pins for motors and IR sensors.
+After making the necessary changes your robo-car is ready to follow the black line!!
